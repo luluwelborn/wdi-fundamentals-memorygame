@@ -1,0 +1,19 @@
+body	{
+	
+}
+
+.linear-gradient	{
+	background: radial-gradient(#326088, #517ea3);
+	height: 230px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    color: #3b6f98;
+}
+
+
+footer {
+
+}
